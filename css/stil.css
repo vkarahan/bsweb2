@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: cadetblue;
+
+}
+
+.menu{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+}
+
+.carousel-inner img{
+    height: 350px;
+
+}
